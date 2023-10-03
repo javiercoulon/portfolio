@@ -12,7 +12,7 @@ Software developer engineer with 7+ years of software development experience. Ha
 
 
 # Tech Stack
-C#, JavaScript, HTML, CSS, Java, Python, Html, Css, JavaScript, Windows Forms, Aspx, Fluent Validations, IIS, jQuery, MVC, Fluent Assertions, LINQ, Entity Framework, Docker, MS Test, SOLID, Junit, NUnit, Rest Sharp, Vsix, GitLab, Git, Angular, Bootstrap, ASP.NET Core, WCF. ASP.Net (aspx), PowerBI, SSIS, PowerShell, Scheduled Tasks, SQL Server, MySQL, MongoDB, SQL Lite, Azure Devops, Cloud foundry, .NET, Amazon Web Services, Atlantis, Terraform, PostgresQL, 
+C#, JavaScript, HTML, CSS, Java, Python, Html, Css, JavaScript, Windows Forms, Aspx, Fluent Validations, IIS, jQuery, MVC, Fluent Assertions, LINQ, Entity Framework, Docker, MS Test, SOLID, Junit, NUnit, RestSharp, Vsix, GitLab, Git, Angular, Bootstrap, ASP.NET Core, WCF. ASP.Net (aspx), PowerBI, SSIS, PowerShell, Scheduled Tasks, SQL Server, MySQL, MongoDB, SQLite, Azure Devops, Cloud foundry, .NET, Amazon Web Services, Atlantis, Terraform, PostgresQL, 
 
 # Soft skills 
 Teamwork, Transparency, Stakeholder management, results oriented, consistency, adaptability, fast learner, willing to help others, open for feedback.
@@ -46,15 +46,15 @@ French, Portuguese, English, Spanish
 
 *  Automated validation processes across multiple systems and services to speed delivery speed and quality. This allowed the team to find escapees while doing changes and stop releases to customers.
 * Served as an enabler for people inside and outside the team/organization by helping them on activities that will benefit/improve their work, the department and Intel in general.
-* Driven the design activities for general purpose solutions, stakeholders, timelines definition and other management/client relevant decisions that will defined the development activities for the team.
+* Driven the design activities for general purpose solutions, stakeholders, timelines definition and other management/client relevant decisions that will define the development activities for the team.
 * Developed backend services to support front-end applications and automation scripts and their business needs using ASP.NET core and other technologies.
-* Helped the adoption process from multiple teams in new systems so they can easily use the new development in less than than initially required. All this by creating and debugging client scripts that connect to the new systems and also solving question from customers.
-* Developed front-end capabilities using Angular technologies based on previous defined/discussed needs, set the definition of done and followed the process since initial implementation to final deployment.
+* Helped the adoption process from multiple teams in new systems so they can easily use the new development in less time than initially required. All this by creating and debugging client scripts that connect to the new systems and also solving questions from customers.
+* Developed front-end capabilities using Angular technologies based on previous defined/discussed needs, set the definition of done and followed the process from initial implementation to final deployment.
 * Given customer support that implies working with clients and solving their issues with the system and with the inputs provided.
 * Designed software solutions end to end (from requirements gathering to production release). Some of the efforts were a new module in a legacy system, a new script or even a new service.
 * Implemented Azure Dev-ops pipelines to automate releases to cloud infrastructure and scheduled tasks, validated them and certified that the process is working.
-* Implementing hotfix and new capabilities in legacy tools to support day to day business needs. From errors found to features that were required due to business changes. Most of these features helped reducing an important amount of time in the end user activities.
-* Fulfilled security requirements given by IT department on the existing tooling including legacy.
+* Implementing hotfix and new capabilities in legacy tools to support day to day business needs. From errors found to features that were required due to business changes. Most of these features helped reduce an important amount of time in the end user activities.
+* Fulfilled security requirements given by the IT department on the existing tooling including legacy.
 * Redesigning and/or implementation of current legacy code to reduce the technical debt. Activities were from updating the framework to refactoring a set of classes.
 * Troubleshoot unknown new issues to improve existing application’s stability.
 * Response to issues that block normal operations of the system in a microservice architecture, from errors triggered by the system itself to problems caused by changes in the platform where those technologies reside. Most of them required querying application insights from Azure.
@@ -68,8 +68,7 @@ French, Portuguese, English, Spanish
 * Troubleshoot client-side issues on the fly to eliminate roadblocks on their day-to-day activities.
 * Adapting to constant organizational changes that implied adjustments on daily activities, technologies and processes.
 * Test plans creation and execution using azure test plans.
-* Driven tech shares with the team in order to help on the day today
-activities.
+* Driven tech shares with the team in order to help on the day to day activities.
 * Planned migrations for different technologies: Net Core, SQL, Windows platforms, among others.
 
 </br>
@@ -146,3 +145,4 @@ activities.
 ## Bachelor’s degree Information Systems
 ### 02/2012 - 12/2016 at Universidad Nacional
 ##### Nicoya, Costa Rica
+
