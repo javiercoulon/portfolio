@@ -10,7 +10,11 @@
 <br/>
 
 # Profile 
-Software developer engineer with 7+ years of software development experience. Have participated in the development process of a wide variety of solutions for multiple companies and business groups as well as tools that were intended to support existing business operations with all levels of complexity and criticality. Enthusiast and focused on outcomes for the internal/external customers and everything they can achieve throughout the products/services provided. Open for feedback, willing to share with others from my experiences, take new challenges and work together with other skilled and enthusiastic team members.
+Experienced software engineer passionate about helping businesses grow by solving complex problems and optimizing processes. I thrive on teamwork, believing that every member is critical to a successful product and that clear communication can overcome even the toughest challenges. I approach difficult problems with the mindset that they are challenging but not impossible, and I promote knowledge sharing, discipline, and mentorship as key drivers for building high-quality products.
+
+Over the years, I have contributed to a wide range of projects — from narrowly defined scopes to ambiguous, evolving requirements — always striving to deliver the highest quality. I have also had the opportunity to teach classes and share my expertise with others, further demonstrating my commitment to knowledge sharing and professional development. This experience has helped me grow as a mentor and strengthened my ability to communicate technical concepts effectively.
+
+An active learner, I continually invest in my professional growth through certifications, learning paths, and self-study to stay ahead in the ever-changing tech landscape. I am open to learning from others, value constructive feedback, and adapt readily to meet organizational needs.
 
 
 # Tech Stack
@@ -46,19 +50,23 @@ French, Portuguese, English, Spanish
 
 # Work Experience
 
-## (11-2022 – Present) Growth Acceleration Partners
+## (11-2024 – Present) Central Bank of Costa Rica
 ### _Software Developer Engineer_
 
-- Worked with AWS infrastructure definition and creation using infrastructure as code techniques. This varies from ECS Tasks, Databases, Security Groups, S3 Buckets or Kafka Topics to deployment charts (Deployments, Cronjobs, Secrets, etc)
-- Driven the database design, definition and implementation using Postgres according to given requirements, reviews, integration and sync across environments. This also includes the initial deployment of the infrastructure through terraform.
-- Addressed requests from SRE about deployments and implementations made in order for the system to be compliant from a security perspective and best practices.
-- Retool application development based on functional and nonfunctional requirements. This includes custom components that were required for very specific business needs. In which already created components could not be used. This also includes performance requirements that were solved through caching and lazy loading.
-- Participated in multiple user groups sessions (with stakeholders and final users) to go over the changes, upcoming features and proposals, giving and receiving feedback and demoing the current state of the system.
-- Worked in several observability features using Grafana. Multiple dashboards and multiple charts in each based on the collected logs. Additionally the adjustment of some existing tools to improve on the logs.
-- Multiple Retool configuration adjustments including migrations/upgrades and integrations with external systems like GitHub or security features like Single Sign On from Azure.
-- Technical documentation and user guides writing, covering most common use cases and relevant building blocks. As well as guides about changing the existing configuration of the system.
-- REST API design and implementation using .NET 6 using best practices on code maintainability, automation and testability.
-- Data collection (scraping) processes design and implementation using c#, python and golang from external sources. This also includes the cleaning and import of the data.
+## (11-2022 – 11-2024) Growth Acceleration Partners
+### _Software Developer Engineer_
+
+- Code review for teammates in a wide variety of internal repositories.
+- Created multiple python automation scripts for different purposes: generating new files, scanning directories and summarizing values as part of the data import processes.
+- Deployed AWS infrastructure. For example ECS Tasks, new security groups, RDS databases and EKS workloads. This has been done using Atlantis, Helm, Terraform and other infrastructure as Code (IAC) techniques.
+- Bug fixes and enhancements to new and existing developments. For example, one of the features was consuming a lot of bandwidth due to the images load process, so a simple technique like caching reduced this by almost 50 to 60%. It also applied in other situations with some query optimization and pagination techniques.
+- During this time I have also worked in other application development efforts. For example one in the  platform named retool. I drove the implementation of a full content management system based on functional and nonfunctional requirements previously discussed. This effort included custom components that were required for very specific business needs. This was not limited to just implementation but also I  was in charge of the platform itself, updating and even enabling features like SSO.
+- Worked in several observability features using Grafana and different data sources like Stackdriver and Loki. Once more, this was something I did not have any previous experience on this platform and even though I was able to quickly learn and provide high quality dashboards that are used by several people and are included in some alerting systems.
+- Technical documentation and user guides writing, covering relevant use cases and building blocks. This has been primarily done through Jira but also some word documents and README.md files.
+REST API implementation and maintenance using .NET6 (and migrated to .NET8 later on). All this following best practices on code maintainability and testability for new developments
+- GitHub Actions’ creation to automate build processes, deployment processes and code quality checks.
+- Data collection processes (web scraping) implementation using c#, python and golang from external sources.
+
 
 
 ## (08-2016 – 11-2022) Intel, Heredia, Costa Rica
@@ -92,6 +100,31 @@ Response to issues that block normal operations of the system in a microservice 
 
 # Education
 
+## (Certification) Python Essentials
+### 2024 INA
+##### Online
+
+<hr>
+
+## (Certification) GCP Introduction
+### 2024 INA
+##### Online
+
+<hr>
+
+## (Certification) AWS Certified Cloud Practitioner 
+### 2024 Amazon Web Services
+##### Online
+
+<hr>
+
+
+## (Certification) AWS Certified Developer
+### 2024 Amazon Web Services
+##### Online
+
+<hr>
+
 ## (Certification) Databricks Lakehouse Fundamentals
 ### 07/2023 Databricks
 ##### Online
@@ -104,11 +137,6 @@ Response to issues that block normal operations of the system in a microservice 
 
 <hr>
 
-## (Certification) AWS Certified Cloud Practitioner 
-### 03/2023 Amazon Web Services
-##### Online
-
-<hr>
 
 ## (Certification) Remote Work and Virtual Collaboration Professional Certificate - RWVCPC 
 ### 11/2022 CertiProf
@@ -163,3 +191,9 @@ Response to issues that block normal operations of the system in a microservice 
 ##### Nicoya, Costa Rica
 
 
+# Links
+
+
+- Credly (https://www.credly.com/users/francisco-javier-ollivier/badges)
+
+- GitHub (https://github.com/javiercoulon)
