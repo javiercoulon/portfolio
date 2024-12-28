@@ -10,7 +10,11 @@
 <br/>
 
 # Profile 
-Experienced software engineer willing to help people and organizations to grow, solve issues and improve current processes. Convinced that every team member is key for a successful product and communication can help us overcome the hardest challenges. Aware that there are problems that might be difficult to solve but not impossible. Promoting knowledge sharing, being disciplined and helping others to grow as a way to get to the final goal with high quality products. During all this time I have worked on a wide variety of projects, some of them with a very specific scope, others with unclear paths but in all cases providing the best quality possible. I have encountered many experienced people from which I learned a lot. Another important detail about myself is the fact that I’m an active learner, Has been some years since I left the university but since then through certification, learning paths and others I have tried to keep up with the always evolving technology. Opened for learning from others, receiving feedback and adjusting to what is really needed. 
+Experienced software engineer passionate about helping businesses grow by solving complex problems and optimizing processes. I thrive on teamwork, believing that every member is critical to a successful product and that clear communication can overcome even the toughest challenges. I approach difficult problems with the mindset that they are challenging but not impossible, and I promote knowledge sharing, discipline, and mentorship as key drivers for building high-quality products.
+
+Over the years, I have contributed to a wide range of projects — from narrowly defined scopes to ambiguous, evolving requirements — always striving to deliver the highest quality. I have also had the opportunity to teach classes and share my expertise with others, further demonstrating my commitment to knowledge sharing and professional development. This experience has helped me grow as a mentor and strengthened my ability to communicate technical concepts effectively.
+
+An active learner, I continually invest in my professional growth through certifications, learning paths, and self-study to stay ahead in the ever-changing tech landscape. I am open to learning from others, value constructive feedback, and adapt readily to meet organizational needs.
 
 
 # Tech Stack
